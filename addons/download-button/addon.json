@@ -3,7 +3,7 @@
   "description": "Allows you to download projects directly from the project page, without having to open the editor first. The Download button is added next to the Copy Link button.",
   "tags": ["community", "projectPage", "featured"],
   "versionAdded": "1.37.0",
-  "credits": [{ "name": "Cool person", "link": "https://scratch.mit.edu/users/greeny--231" }],
+  "credits": [{ "name": "ERROR: User Blocked.", "link": "https://scratch.mit.edu/users/greeny--231" }],
   "userscripts": [
     {
       "url": "userscript.js",
