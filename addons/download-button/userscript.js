@@ -27,7 +27,7 @@ export default async function ({ addon, console, msg }) {
   }
 
   const downloadButton = document.createElement("button");
-  downloadButton.innerText = msg("download");
+  downloadButton.innerText = "Hi! I am a download button";
   downloadButton.onclick = (e) => {
     download(e.shiftKey);
   };
